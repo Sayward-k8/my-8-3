@@ -12,10 +12,10 @@
 ### Решение 1
 <details>
    
-![alt text](https://github.com/Sayward-k8/my-8-2/blob/master/image/1.jpg)
-![alt text](https://github.com/Sayward-k8/my-8-2/blob/master/image/2.jpg)
-![alt text](https://github.com/Sayward-k8/my-8-2/blob/master/image/3.jpg)
-![alt text](https://github.com/Sayward-k8/my-8-2/blob/master/image/4.jpg)
+![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/1.jpg)
+![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/2.jpg)
+![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/3.jpg)
+![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/4.jpg)
 
 </details>
 
@@ -58,4 +58,5 @@
 <details>
 
 </details>
+
 
