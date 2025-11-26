@@ -58,12 +58,13 @@
 
 <details>
    
-![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/.gitlab-ci.yml)
+[yaml](https://github.com/Sayward-k8/my-8-3/blob/master/.gitlab-ci.yml)
 ![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/8.jpg)
 ![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/5.jpg)
 ![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/9.jpg)
 ![alt text](https://github.com/Sayward-k8/my-8-3/blob/master/image/6.jpg)
 </details>
+
 
 
 
