@@ -1,0 +1,22 @@
+stages:
+  - test
+  - build
+
+test:
+  stage: test
+  image: golang:latest
+  script:
+    - go test .
+  only:
+    changes:
+      - "*.go"
+  tags:
+    -  netology-hw
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+    - docker build .
+  tags:
+    -  netology-hw
